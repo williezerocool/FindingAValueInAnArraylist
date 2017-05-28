@@ -42,7 +42,7 @@ public class FindingAValueInAnArraylist {
             System.out.println(input + " is in the arrayList");
         }else{
         
-            System.out.println("that value is not in the arrayList");
+            System.out.println(input + " is not in the arrayList");
         }
     
     }
